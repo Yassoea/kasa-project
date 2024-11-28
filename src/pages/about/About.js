@@ -11,7 +11,7 @@ const About = () => {
     <div className="about">
       <Header />
       <main>
-        <Banner image={imgBannerAbout} titre="" />
+        <Banner image={imgBannerAbout} />
 
         <div className="collapse">
           <div className="collapse__dropdown">
